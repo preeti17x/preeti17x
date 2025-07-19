@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi,%20I'm%20Preeti!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20%26%20Python&descAlignY=51&descAlign=62" alt="header">
+  <img src="github-header-image.png" alt="Preeti Banner" width="100%">
 </p>
 
 ## 👩‍💻 About Me
